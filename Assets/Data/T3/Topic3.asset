@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db69489eb8c45b94bbe8f78e046dc151, type: 3}
+  m_Name: Topic3
+  m_EditorClassIdentifier: Assembly-CSharp::TopicData
+  id: T3
+  title: 
+  description: 
+  learningObjective: 
+  keyPoints: 
+  videoClip: {fileID: 32900000, guid: 583315ad284da62479ad00a18b487d36, type: 3}
+  audioClip: {fileID: 0}
+  minLearningSecondsOverride: -1
+  questions:
+  - {fileID: 11400000, guid: 3c504b000e79ae5449f4717094a5075e, type: 2}
+  - {fileID: 11400000, guid: 66076c0d58486914b80fe7e59dba5252, type: 2}
+  - {fileID: 11400000, guid: e11f2c82231d65b40ae20aec0a7fa4c8, type: 2}
+  - {fileID: 11400000, guid: 169276e72614e534eb0443f38499ca65, type: 2}
+  - {fileID: 11400000, guid: ee5466cad6e865641a85d8cc2fed5edf, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27f47e4ad5871a541b2e4bb445236ac6, type: 3}
+  m_Name: Q6_T1
+  m_EditorClassIdentifier: Assembly-CSharp::QuestionData
+  question: Kedaulatan negara kita adalah berlandaskan jenis kedaulatan tradisonal.
+    Apakah bukti untuk menyokong pernyataan tersebut?
+  options:
+  - Kerjasama
+  - Kekuasaan Raja-raja Melayu
+  - Kecemerlangan sosioekonomi
+  - Keupayaan menentang penjajahan
+  correctIndex: 1
+  hint1: Keupayaan menentang penjajahan salah
+  hint2: ' bukan Kerjasama'
+  explanation: 

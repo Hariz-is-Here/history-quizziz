@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db69489eb8c45b94bbe8f78e046dc151, type: 3}
+  m_Name: Topic1
+  m_EditorClassIdentifier: Assembly-CSharp::TopicData
+  id: T1
+  title: Kedaulatan Negara
+  description: Kedaulatan Negara
+  learningObjective: 
+  keyPoints: 
+  videoClip: {fileID: 32900000, guid: e1f59674fc8be3744985b4a33e8af3e1, type: 3}
+  audioClip: {fileID: 0}
+  minLearningSecondsOverride: -1
+  questions:
+  - {fileID: 11400000, guid: 7dc5926fe7f4f134bb031aa60633c3ac, type: 2}
+  - {fileID: 11400000, guid: bde497bb789f4dc448197270d0429905, type: 2}
+  - {fileID: 11400000, guid: 7b1292b177cc4394cb4da8dc87e83c3b, type: 2}
+  - {fileID: 11400000, guid: 411b85eeed931584a8dfc77e8637caa9, type: 2}
+  - {fileID: 11400000, guid: b0cfd171945bdf14db8de63591f41af1, type: 2}
+  - {fileID: 11400000, guid: 4e8c708bcdff52c48acd2deb831f74ff, type: 2}
+  - {fileID: 11400000, guid: d9fccb15989e06a4c879c160fc74067d, type: 2}
+  - {fileID: 11400000, guid: e6ed5ed1459dd334da0770af21888512, type: 2}
+  - {fileID: 11400000, guid: 1cce84d2aa4b2d847b0cd15ce228ffbe, type: 2}
+  - {fileID: 11400000, guid: 4a18e0f57bfcad5419da4c340d203ba0, type: 2}
